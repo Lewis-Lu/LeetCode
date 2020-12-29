@@ -51,3 +51,4 @@ class Sorting:
 if __name__ == "__main__":
     data = [1,4,3,6,2,5,7,8]
     Sim = Sorting(data)
+    
